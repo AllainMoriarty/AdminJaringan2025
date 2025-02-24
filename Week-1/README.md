@@ -27,8 +27,8 @@ Versi HTTP yang digunakan adalah 1.1.
 IP address client 145.254.160.237 dan server 65.208.228.223.
 ![versi http](images/wireshark-3.png)
 Waktu client mengirimkan HTTP request adalah 0,911310.
-![versi http](images/wireshark-4.png)
-Waktu server mengirimkan response adalah 3,955688, durasi dari saat client mengirimkan request hingga server mengirimkan response adalah 3.044378.
+![versi http](images/wireshark-5.png)
+Waktu server mengirimkan response adalah 4,846969, durasi dari saat client mengirimkan request hingga server mengirimkan response adalah 3.935659.
 
 ### 2. Deskripsi gambar pada slide.
 
